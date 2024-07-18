@@ -27,8 +27,14 @@ Purpose for Creating the App
 The primary purpose of creating this app was to apply and refine my Flutter development skills in a meaningful way. By building a functional and practical app, I aimed to:
 
 -Learn and Apply New Skills: Explore various Flutter widgets, state management techniques, and best practices in mobile app development.
+
+
 -Understand User Experience: Design an intuitive user interface and improve the overall user experience through thoughtful design and functionality.
+
+
 -Integrate Device Features: Gain hands-on experience with integrating native device features such as the camera and photo gallery, which are common requirements in modern mobile apps.
+
+
 -Build a Portfolio: Create a tangible project that showcases my abilities and can be shared with potential employers or collaborators.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
