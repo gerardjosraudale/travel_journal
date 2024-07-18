@@ -54,7 +54,11 @@ Tools Used:
 Programming Language and Libraries:
 
 -Dart: The primary language for Flutter development, used to write the entire application code.
+
+
 -Image Picker Library: A Flutter plugin used for picking images from the device's gallery or camera.
+
+
 -Provider Package: Used for state management to manage and update the app's state efficiently.
 
 # Useful Websites
