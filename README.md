@@ -14,7 +14,8 @@ View Entries: All entries are displayed in a scrollable list, showing the title,
 
 Edit and Delete Entries: Users have the option to edit or delete existing entries, ensuring their journal stays up-to-date and relevant.
 
-    How to Use the App:
+How to Use the App:
+
 1. Launch the App: Open the Travel Journal app on your device.
 2. Create a New Entry: Tap the "Add Entry" button to start a new journal entry. Enter a title, take or select a photo, and add any notes about your experience.
 3. Save the Entry: Once all information is entered, tap the "Save" button to add the entry to your journal.
