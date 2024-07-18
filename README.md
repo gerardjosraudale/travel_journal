@@ -8,11 +8,11 @@ The Travel Journal app is designed to help users document their travel experienc
 
  Key Features:
 
-Add Entries: Users can create new journal entries by providing a title, selecting a photo from their gallery or taking a new one, and adding descriptive notes.
+-Add Entries: Users can create new journal entries by providing a title, selecting a photo from their gallery or taking a new one, and adding descriptive notes.
 
-View Entries: All entries are displayed in a scrollable list, showing the title, photo, and a snippet of the notes. Users can tap on an entry to view the full details.
+-View Entries: All entries are displayed in a scrollable list, showing the title, photo, and a snippet of the notes. Users can tap on an entry to view the full details.
 
-Edit and Delete Entries: Users have the option to edit or delete existing entries, ensuring their journal stays up-to-date and relevant.
+-Edit and Delete Entries: Users have the option to edit or delete existing entries, ensuring their journal stays up-to-date and relevant.
 
 How to Use the App:
 
