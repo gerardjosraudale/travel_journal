@@ -75,4 +75,4 @@ Here are some areas for future improvements and additions to the Travel Journal 
 * User Authentication: Implement user accounts so each user can have their own set of journal entries.
 * Cloud Storage: Store photos and journal entries in the cloud to allow access from multiple devices.
 * Offline Functionality: Ensure the app can be used without an internet connection and syncs data once the connection is restored.
-* Enhanced UI/UX: Improve the overall design and user experience, possibly incorporating more animations and transitions.
+* Enhanced UI/UX: Improve the overall design and user experience, possibly incorporating more animations and transitions.# Travel-Journal
